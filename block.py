@@ -52,9 +52,9 @@ __all__ = (
     "TorchVision",
      "Multiin",
     "IN",
-     "CPCA","CPCA_CF",
+     "CPCA","CDFIM",
     "FeatureAdd",
-    "PolarizedSelfAttention_Channel",
+    "CGSA",
     "PolarizedSelfAttention",
 )
 
@@ -134,7 +134,7 @@ class CPCA(nn.Module):
         out = self.conv2(out)
         return out
 
-class CPCA_CF(nn.Module):
+class CDFIM(nn.Module):
     def __init__(self, channels, out_channels, channelAttention_reduce=4):
         super().__init__()
         self.conv1 = nn.Conv2d(channels, channels, kernel_size=(1, 1), padding=0)
@@ -1505,7 +1505,7 @@ class A2C2f(nn.Module):
         return y
 
 
-class PolarizedSelfAttention_Channel(nn.Module):###########################串联(只要通道注意力机制)#############################################
+class CGSA(nn.Module):###########################串联(只要通道注意力机制)#############################################
 
     def __init__(self, channel=64,out_channels=64):
         super().__init__()
