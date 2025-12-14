@@ -2,15 +2,17 @@
 Codes for C2DFF-Net for Object Detection in Multimodal Remote Sensing Images.
 Yue Zhang, Jinbao Chen, Jianyuan Wang*, Donghao Shi, Shu Han, and Lixiao Deng
 
-yolov8-twoCSP-64.yaml
+The complete code will be released soon!
+
+---yolov8-twoCSP-64.yaml---
 
 Baseline model architecture configuration.
 
-C2DFF.yaml
+---C2DFF.yaml---
 
 Network configuration for the proposed C2DFF-Net.
 
-block.py
+---block.py---
 
 Implements the two core modules proposed in the paper: CDFIM and CGSA.
 Both modules are designed to be plug-and-play, allowing for easy integration into other deep learning models with minimal modification.
