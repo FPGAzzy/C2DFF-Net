@@ -16,6 +16,10 @@ Network configuration for the proposed C2DFF-Net.
 Implements the two core modules proposed in the paper: CDFIM and CGSA.
 Both modules are designed to be plug-and-play, allowing for easy integration into other deep learning models with minimal modification.
 
+---ALM.py
+The proposed Adaptive Light-Aware Mask (ALM) method for training dual-modal models.
+
+
 ![image](https://github.com/user-attachments/assets/ca54e8e6-2d8b-4b8f-8259-af924938a205)
 ![image](https://github.com/user-attachments/assets/782ec178-f05e-44fa-a1bf-d96e2177a9cc)
 
