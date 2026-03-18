@@ -21,11 +21,17 @@ Both modules are designed to be plug-and-play, allowing for easy integration int
 The proposed Adaptive Light-Aware Mask (ALM) method for training dual-modal models.
 
 **Note:**
+
 To align with the naming conventions used in the paper, the modules were renamed before the public release. If you encounter the following error when testing with our pretrained weights:
+  
    Can't get attribute 'CPCA_CF' on <module 'ultralytics.nn.modules.block' ...
+   
    Can't get attribute 'PolarizedSelfAttention_Channel' on <module 'ultralytics.nn.modules.block'
+
 Please resolve it by renaming the modules as follows:
+   
    Replace CPCA_CF with CDFIM
+   
    Replace PolarizedSelfAttention_Channel with CGSA
 
 
