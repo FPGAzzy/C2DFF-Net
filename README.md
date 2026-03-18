@@ -34,6 +34,8 @@ Please resolve it by renaming the modules as follows:
 
    Replace CGSA with PolarizedSelfAttention_Channel
 
+<img width="1193" height="224" alt="image" src="https://github.com/user-attachments/assets/f71c9700-91d1-479f-950f-927d1baaeae0" />
+
 
 ![image](https://github.com/user-attachments/assets/ca54e8e6-2d8b-4b8f-8259-af924938a205)
 ![image](https://github.com/user-attachments/assets/782ec178-f05e-44fa-a1bf-d96e2177a9cc)
