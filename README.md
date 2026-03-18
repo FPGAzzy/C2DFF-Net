@@ -30,9 +30,9 @@ To align with the naming conventions used in the paper, the modules were renamed
 
 Please resolve it by renaming the modules as follows:
    
-   Replace CPCA_CF with CDFIM
-   
-   Replace PolarizedSelfAttention_Channel with CGSA
+   Replace CDFIM with CPCA_CF
+
+   Replace CGSA with PolarizedSelfAttention_Channel
 
 
 ![image](https://github.com/user-attachments/assets/ca54e8e6-2d8b-4b8f-8259-af924938a205)
