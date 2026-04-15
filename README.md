@@ -13,7 +13,7 @@ Network configuration for the proposed C2DFF-Net.
 
 ---block.py---
 
-Implements the two core modules proposed in the paper: CDFIM and CGSA.
+Implements the two core modules proposed in the paper: CDFIM(CPCA_CF) and CGSA(PolarizedSelfAttention_Channel).
 Both modules are designed to be plug-and-play, allowing for easy integration into other deep learning models with minimal modification.
 
 ---ALM.py
