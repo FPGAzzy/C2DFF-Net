@@ -28,7 +28,14 @@ Datasets：
 --来自百度网盘超级会员v5的分享
 
 ---DroneVehicle---
+通过网盘分享的文件：DroneVehicle
+链接: https://pan.baidu.com/s/1XsxCT0cKuz8MbsGH3m50PA?pwd=asdf 提取码: asdf 
+--来自百度网盘超级会员v5的分享
 
+---FLIR---
+通过网盘分享的文件：FLIR-align-3class
+链接: https://pan.baidu.com/s/1oSJJBOox9Q2obwIPP6agFw?pwd=asdf 提取码: asdf 
+--来自百度网盘超级会员v5的分享
 
 <img width="1193" height="224" alt="image" src="https://github.com/user-attachments/assets/f71c9700-91d1-479f-950f-927d1baaeae0" />
 
