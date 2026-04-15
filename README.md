@@ -2,6 +2,8 @@
 Codes for C2DFF-Net for Object Detection in Multimodal Remote Sensing Images.
 Yue Zhang, Jinbao Chen, Jianyuan Wang*, Donghao Shi, Shu Han, and Lixiao Deng
 
+---C2DFF.ZIP---
+Complete usable project code
 
 ---yolov8-twoCSP-64.yaml---
 
